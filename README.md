@@ -16,4 +16,4 @@ Page to validate Mastodon profile. Credit here;
 
 ## Notes
 
-* didn't realise this until after lots of troubleshooting :( you can't have the link set up with Mastodon before things are set up with Github, it won't verify. If you do it in reverse, remove the link and re-add for the verification to happen.
+I didn't realise this until after lots of troubleshooting :( you can't have the link set up with Mastodon before things are set up with Github, it won't verify. If you do it in reverse, remove the link and re-add for the verification to happen.
