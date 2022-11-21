@@ -8,7 +8,7 @@ Page to validate Mastodon profile. Credit here;
 
 ## Notes
 
-I didn't realise this until after lots of troubleshooting :( you can't have the link set up with Mastodon before things are set up with Github, it won't verify. If you do it in reverse, remove the link and re-add for the verification to happen.
+I didn't realise this until after lots of troubleshooting :( you can't have the link set up in your Mastodon profile before things are set up in Github, it won't verify. If you have done it in reverse, simply remove the link in Mastodon, get Github pages up and running then re-add for the verification to happen.
 
 ## How to set up
 
