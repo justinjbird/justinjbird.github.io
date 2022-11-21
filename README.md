@@ -2,17 +2,17 @@
 
 ## Info
 
-Page to validate Mastodon profile. Original blog here;
+Page to validate Mastodon profile. Credit here;
 
 * https://til.simonwillison.net/mastodon/verifying-github-on-mastodon
 
 ## How to set up
 
-* clone the repo into {your github user name}.github.io
+* clone the repo into {username}.github.io
 * replace github.com/justinjbird references with your github username
 * replace https://data-folks.masto.host/@justinjbird with address to your mastodon profile
-* once committed, {your github username}.github.io should redirect back to your github profile
-* add {your github username}.github.io as your github link on Mastodon (NOT your github.com/{username} url)
+* once committed, {username}.github.io should redirect back to your github profile
+* add {username}.github.io as your github link on Mastodon (NOT github.com/{username}!!!)
 
 ## Notes
 
